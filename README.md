@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, math and learning languages
 - 🌱 I’m currently learning JS, CSS and HTML
 - 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me https://t.me/Timentil
+- 📫 How to reach me https://t.me/P1ece_of_Art
 - ⚡ Fun fact: I've touched the grass
 
 <!---
